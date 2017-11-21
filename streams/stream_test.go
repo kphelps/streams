@@ -1,4 +1,4 @@
-package actors_test
+package streams_test
 
 import (
 	. "github.com/kphelps/indexing-service/actors"
